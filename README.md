@@ -18,9 +18,9 @@ python-dotenv
 ```
 
 #### Swagger UI
-[https://python-flask-crud.deta.dev/api/docs/](https://python-flask-crud.deta.dev/api/docs/)
+[https://python-flask-crud-auth.deta.dev/api/docs/](https://python-flask-crud-auth.deta.dev/api/docs/)
 
-[![Swagger](https://validator.swagger.io/validator?url=https://python-flask-crud.deta.dev/static/swagger.json)](https://validator.swagger.io/validator?url=https://python-flask-crud.deta.dev/static/swagger.json)
+[![Swagger](https://validator.swagger.io/validator?url=https://python-flask-crud-auth.deta.dev/static/swagger.json)](https://validator.swagger.io/validator?url=https://python-flask-crud-auth.deta.dev/static/swagger.json)
 
 #### License
 
