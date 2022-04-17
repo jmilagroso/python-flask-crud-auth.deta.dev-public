@@ -14,7 +14,6 @@ deta
 flask
 flask-expects-json
 flask-swagger-ui
-python-dotenv
 ```
 
 #### Swagger UI
