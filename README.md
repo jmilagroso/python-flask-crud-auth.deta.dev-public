@@ -1,12 +1,12 @@
-# python-flask-crud.deta.dev
-Python Flask CRUD with Deta.sh Base
+# python-flask-crud-auth.deta.dev
+Python Flask CRUD and Auth in Deta.sh
 
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/jmilagroso/python-flask-crud.deta.dev.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jmilagroso/python-flask-crud.deta.dev/context:python)
 [![CodeFactor](https://www.codefactor.io/repository/github/jmilagroso/python-flask-crud.deta.dev/badge?s=75bacbbd40d449e0254899898eae0883efaa0430)](https://www.codefactor.io/repository/github/jmilagroso/python-flask-crud.deta.dev)
 [![Python3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
 #### Overview
-Python Flask CRUD app using Deta.sh
+Python Flask CRUD and Auth in Deta.sh
 
 #### Dependencies
 ```sh
